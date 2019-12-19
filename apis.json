@@ -1,0 +1,97 @@
+{
+    "name": "MedlinePlus.gov",
+    "description": "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research....",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/844-medlineplus-gov.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "healthcare"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/medlineplus-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MedlinePlus.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/844-medlineplus-gov.jpg",
+            "humanURL": "http:\/\/www.nlm.nih.gov\/medlineplus\/webservices.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/medlineplus-gov-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/medlineplus-gov-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/wsearch.nlm.nih.gov\/ws\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/national-institutes-of-health"
+        },
+        {
+            "type": "Email",
+            "url": "healthinformation@mail.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "grantsinfo@nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "olib@od.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "preguntas@nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "execsec1@od.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "olib@mail.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "logo@nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "NIHinfo@od.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "2020@nei.nih.gov"
+        },
+        {
+            "type": "Email",
+            "url": "nhlbiinfo@nhlbi.nih.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NIH"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/medlineplus"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nlm.nih.gov\/medlineplus\/webservices.html"
+        }
+    ]
+}
